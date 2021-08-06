@@ -1,0 +1,1 @@
+date,utilities,health,medicine,groceries,household_supp,restauration,car_exp,pub_trans,entertainment,saving,bank_fees,money_sent,misc
